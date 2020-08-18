@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HannahO94/js-lesson-1/issues"
   },
-  "homepage": "https://github.com/HannahO94/js-lesson-1#readme"
+  "homepage": "https://github.com/HannahO94/js-lesson-1#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }
